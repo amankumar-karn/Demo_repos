@@ -1,0 +1,10 @@
+git init
+git status
+git add <filename>
+git add .
+git commit -m "Message"
+git remote add origin <your-repo-url>
+git branch -M main
+git push origin main
+git pull origin main
+git log
